@@ -1,0 +1,1 @@
+{"version":1,"defects":{"FactorialTest::testFactorialCero":8,"FactorialTest::testFactorialUno":8,"FactorialTest::testFactorialPositivo":8,"FactorialTest::testFactorialNegativo":8},"times":{"FactorialTest::testFactorialCero":0.009,"FactorialTest::testFactorialUno":0.001,"FactorialTest::testFactorialPositivo":0,"FactorialTest::testFactorialNegativo":0}}
